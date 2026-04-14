@@ -1,0 +1,15 @@
+# Reference corpus (user must provide their own)
+references/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
